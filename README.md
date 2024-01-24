@@ -30,3 +30,8 @@
 
 Feel free to send me an email at tuukka.mikkonen@tutanota.com
 
+## My current arch setup
+
+![230406_09-55-42](https://github.com/Tuukkaani/Tuukkaani/assets/101945778/e5d5fa29-5638-42c7-92d9-8dce192ea410)
+
+
