@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm independent, but not afraid to learn from others or ask for help.
 
-- 💻 I thorougly enjoy all about computers, software and tech.
+- 💻 I thoroughly enjoy all about computers, software and tech.
 
 - 🎮 On my freetime you can find me ricing my linux installs, programming, playing and making games.
   
