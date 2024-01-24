@@ -26,6 +26,7 @@
  - 🤝 I know how to efficiently work as a team towards a common goal.
  - 👽 I tend to get along with all sorts of personalities.
 
-## How to reach me
+## Social
 
-Email - tuukka.mikkonen@tutanota.com
+Feel free to send me an email at tuukka.mikkonen@tutanota.com
+
