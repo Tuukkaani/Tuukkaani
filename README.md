@@ -9,7 +9,7 @@
 
 - 🎮 On my freetime you can find me ricing my linux installs, programming, playing and making games.
   
-- 📚 Currently learning C++, SFML and React Native.
+- 📚 Currently learning C++, OpenGL and React Native.
 
 - 🎙 What's the difference between a bass player and a hardwood floor? <em>The floor can support a family.</em>
 
